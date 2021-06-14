@@ -23,5 +23,6 @@ code {
 #party-chicken {
     width: 100%;
     height: 100%;
-    object-fit:cover;
+    height: --webkit-fill-available;
+    object-fit: cover;
 }
